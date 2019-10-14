@@ -11,6 +11,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "ws": "^1.0.1"
+    "ws": "^7.1.2"
   }
 }
